@@ -1,0 +1,8 @@
+<오늘 수업 내용>
+#배열의 요모조모
+	-참고 클래스 : ArrayInsert, ArrayUpdate, ArrayDelete, Quiz19
+	#배열의 삭제 
+	- 배열에서 삭제 개념은 없다. 다만 삭제된거처럼 보이게 할 수 있다.
+	
+<오늘의 숙제>
+StudentManager 해보기.
